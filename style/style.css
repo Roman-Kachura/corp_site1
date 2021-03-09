@@ -1604,6 +1604,7 @@ a:focus, a:hover, button:focus, button:hover {
   }
   .header .header-block .header-text .header__title {
     font-size: 3rem;
+    line-height: 1.2em;
   }
   .header .header-block .header-text .header__title div {
     display: inline-block;
